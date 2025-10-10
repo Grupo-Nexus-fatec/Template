@@ -91,4 +91,4 @@ Sprint | Previsão | Status| Histórico|
 |02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
 |03| dd/mm/aaaa | a fazer|[MVP](https://) | 
 |04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|Feira de Soluções|04/12/2025 |a fazer |[MVP](https://) | 
