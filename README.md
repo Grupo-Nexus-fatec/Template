@@ -43,45 +43,58 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
-## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 1 Preparação dos dados
+- [ ] Você quer um panorama sintético do comércio exterior brasileiro entre 2023 e 2025, analisando exportações e importações para avaliar a evolução e apoiar decisões de políticas públicas.
+ Description:
 
-## Sprint 2
+   ° A base de dados deve conter as tabelas de 2023, 2024 e 2025.
+
+   ° O usuário deve conseguir escolher o ano a ser exibido
+
+- [ ] Você deseja receber os dados já tratados, com a nomenclatura completa substituindo códigos por descrições, para que a interpretação seja mais fácil e clara.
+     Description:
+
+   ° Todos os códigos SH4 devem ter descrição correspondente.
+
+   °Colunas devem estar nomeadas em português e de forma clara.
+
+- [ ]  Como tomador de decisões de políticas públicas, quero visualizar dados de categoria do item, peso, frete e modal utilizado, para avaliar a logística.
+Description
+
+   °As colunas devem estar disponíveis na base final. 
+
+   °Dados de frete, peso e modal devem ser extraídos corretamente.
+        
+## Sprint 2 Painéis e filtros
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
-## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 3 Comparativos e análises
+- [ ] Você deseja um dashboard interativo para visualizar os dados tratados, facilitando a interpretação visual das informações
+      Description
+
+   °Dashboard deve estar no Power BI.
+
+   °Deve exibir gráficos básicos (importação, exportação, balança comercial).
+ 
+- [ ] Você deseja filtros que permitam analisar os dados de importação e exportação por estado e município do Brasil
+      Description
+
+   °Filtro de Estado disponível. 
+
+   °Filtro de Município disponível. 
+
+   °Gráficos devem atualizar automaticamente ao aplicar o filtro.
+- [ ]Você deseja comparar os estados que mais exportam e importam, para identificar quais lideram o comércio exterior.
+- Description
+
+   °Ranking dos 5 principais estados exportadores/importadores. 
+
+   °Gráfico comparativo (barra ou pizza). 
       
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 # Registro das Sprints
 
