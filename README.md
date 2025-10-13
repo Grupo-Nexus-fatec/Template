@@ -45,56 +45,82 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Sprint 1 Preparação dos dados
 - [ ] Você quer um panorama sintético do comércio exterior brasileiro entre 2023 e 2025, analisando exportações e importações para avaliar a evolução e apoiar decisões de políticas públicas.
- Description:
+- Description:
 
    ° A base de dados deve conter as tabelas de 2023, 2024 e 2025.
 
    ° O usuário deve conseguir escolher o ano a ser exibido
 
 - [ ] Você deseja receber os dados já tratados, com a nomenclatura completa substituindo códigos por descrições, para que a interpretação seja mais fácil e clara.
-     Description:
+    - Description:
 
    ° Todos os códigos SH4 devem ter descrição correspondente.
 
    °Colunas devem estar nomeadas em português e de forma clara.
 
 - [ ]  Como tomador de decisões de políticas públicas, quero visualizar dados de categoria do item, peso, frete e modal utilizado, para avaliar a logística.
-Description
+-Description:
 
    °As colunas devem estar disponíveis na base final. 
 
    °Dados de frete, peso e modal devem ser extraídos corretamente.
         
 ## Sprint 2 Painéis e filtros
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 Comparativos e análises
-- [ ] Você deseja um dashboard interativo para visualizar os dados tratados, facilitando a interpretação visual das informações
-      Description
+- [ ]Você deseja um dashboard interativo para visualizar os dados tratados, facilitando a interpretação visual das informações
+  -Description:
 
    °Dashboard deve estar no Power BI.
 
-   °Deve exibir gráficos básicos (importação, exportação, balança comercial).
- 
+    °Deve exibir gráficos básicos (importação, exportação, balança comercial).
+
 - [ ] Você deseja filtros que permitam analisar os dados de importação e exportação por estado e município do Brasil
-      Description
+-Description:
 
    °Filtro de Estado disponível. 
 
    °Filtro de Município disponível. 
 
    °Gráficos devem atualizar automaticamente ao aplicar o filtro.
-- [ ]Você deseja comparar os estados que mais exportam e importam, para identificar quais lideram o comércio exterior.
-- Description
+- [ ] Você deseja comparar os estados que mais exportam e importam, para identificar quais lideram o comércio exterior.
+    - Description:
 
    °Ranking dos 5 principais estados exportadores/importadores. 
 
-   °Gráfico comparativo (barra ou pizza). 
+   °Gráfico comparativo (barra ou pizza).
+  
       
+## Sprint 3 Comparativos e análises
+- [ ] Você deseja visualizar as categorias de itens mais exportados e seus principais destinos, para compreender a pauta comercial.
+      
+   °Gráfico de ranking das principais categorias. 
+
+   °Indicação do país de destino correspondente.
+- [ ] Você deseja identificar os países que mais importam do Brasil e os itens correspondentes, para reconhecer parceiros comerciais estratégicos.
+
+- [ ] Você deseja identificar as cidades com maior volume de exportação e importação no estado de São Paulo, para mapear os polos regionais de comércio.
+- Description
+
+   °Ranking das cidades exportadoras e importadoras.
+
+   °Gráfico interativo por cidade
+  - [ ] Você deseja visualizar os itens mais comercializados pelas cidades de São Paulo, para identificar suas cadeias produtivas.
+  - Description
+
+   °Gráfico de produtos por cidade.
+
+   °Deve permitir filtro de município.
+  - [ ] Você deseja gráficos comparativos das regiões que mais exportam e dos itens exportados, para compreender tendências regionais.
+  - Description
+
+   °Gráfico de comparação entre regiões (Norte, Sul, etc.).  
+
+   °Indicação dos produtos líderes por região.
+   - [ ] Você deseja gráficos comparativos de valores entre as cidades de São Paulo, para analisar seu desempenho relativo no comércio.
+    - Description
+
+   °Ranking em valor (R$ FOB).
+
+   °Gráfico comparativo lado a lado.
 
 # Registro das Sprints
 
