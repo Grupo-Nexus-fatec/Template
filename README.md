@@ -35,10 +35,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
+ ### Tecnologias Específicas/Apoio (Pyton)
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
   
- ### Tecnologias da Informação
+ ### Tecnologias da Informação (Power Bi)
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
 # Backlog do produto
