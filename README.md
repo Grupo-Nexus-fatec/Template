@@ -36,7 +36,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio (Pyton)
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSmmPWq4rSsFshSQc_BwBCYibhFJJQ-hmiA&s
   
  ### Tecnologias da Informação (Power Bi)
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
