@@ -39,7 +39,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 <img width="40" height="40" alt="github-sign" src="https://github.com/user-attachments/assets/1dc04ee5-999e-4322-b005-3e7bf6e705b2" /><img width="40" height="40" alt="jira" src="https://github.com/user-attachments/assets/f55c08c7-66a4-41c3-9a96-c82942f41dc5" />
 
  ### Tecnologias da Informação 
-<img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/99ba87a2-66ce-421e-b96a-2ffc79e35db0" />
+<img width="40" height="40" alt="python" src="https://github.com/user-attachments/assets/99ba87a2-66ce-421e-b96a-2ffc79e35db0" /><img width="40" height="40" alt="icons8-poder-bi-2021-48" src="https://github.com/user-attachments/assets/1f3c633a-190c-4bde-ba36-977af8be7e26" />
+
 
 
 # Backlog do produto
