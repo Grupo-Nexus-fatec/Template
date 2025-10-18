@@ -36,8 +36,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio (Pyton)
-<img width="512" height="512" alt="github" src="https://github.com/user-attachments/assets/10ddbfbf-6ef3-4d9d-ae21-7bb49a94d182" /><img width="16" height="16" alt="jira (1)" src="https://github.com/user-attachments/assets/7a2bbaa5-06bf-475c-855e-ea2c912a11e7" />
-
+<img width="24" height="24" alt="jira (2)" src="https://github.com/user-attachments/assets/3e4600b2-d13c-416a-b67f-a227d79dcd1b" />
 
 
   
