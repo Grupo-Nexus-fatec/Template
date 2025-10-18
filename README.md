@@ -36,7 +36,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio (Pyton)
-<img width="40" height="40" alt="github-sign" src="https://github.com/user-attachments/assets/1dc04ee5-999e-4322-b005-3e7bf6e705b2" />
+<img width="40" height="40" alt="github-sign" src="https://github.com/user-attachments/assets/1dc04ee5-999e-4322-b005-3e7bf6e705b2" /><img width="40" height="40" alt="jira" src="https://github.com/user-attachments/assets/f55c08c7-66a4-41c3-9a96-c82942f41dc5" />
 
 
  ### Tecnologias da Informação (Power Bi)
