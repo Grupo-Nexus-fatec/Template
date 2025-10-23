@@ -1,4 +1,3 @@
-<img width="40" height="40" alt="light-bulb" src="https://github.com/user-attachments/assets/331f6ac9-a97b-49aa-a068-9d75653b0cfa" />
 # Aprendizado por Projeto Integrador (API)
 
 Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
