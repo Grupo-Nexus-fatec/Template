@@ -1,1 +1,4 @@
-jjjjjjjjjj
+# Sprint 1
+## Relatório de Desenvolvimento do Dashboard no Power BI
+### 1. Etapa de Importação dos Dados
+Inicialmente, foram utilizados os dados previamente tratados no Python, os quais foram importados para o Power BI. Essa integração permitiu maior facilidade na manipulação e visualização das informações.
