@@ -123,7 +123,7 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
+|01 | dd/mm/aaaa | a fazer| [MVP](https://github.com/Grupo-Nexus-fatec/Template/blob/main/Sprint1.md) | 
 |02|  03/11/2025| a fazer|[MVP](https://) | 
 |03| dd/mm/aaaa | a fazer|[MVP](https://) | 
 |04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
